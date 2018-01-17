@@ -24,3 +24,8 @@ cout <<"||||||||||||||||||||||||||||||||||||"<<endl;
 cout <<"|           MOnggo Mampir          | "<<endl;
 cout <<"||||||||||||||||||||||||||||||||||||"<<endl;
 cout <<endl;
+
+cout << "Sandal Nipon"<<endl;
+cout << (nipon.merek)<<endl;
+nipon.perbedaan("tampilan tidak tapi baik tapi nyaman di pakai");
+cout <<endl;
