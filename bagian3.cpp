@@ -15,3 +15,7 @@ int main(){
 	nipon.merek="nipon sendal masyarakat baik";
 	nike.merek="nike sandal masyarakat keren";
 	adidas.merek="adidas sandal masyarakat terbaik dan keren ";
+	
+	nipon.harga=5000;
+	nike.harga=25000;
+	adidas.harga=100000;
