@@ -34,3 +34,8 @@ cout << "Sandal Nike"<<endl;
 cout << (nike.merek)<<endl;
 nike.perbedaan("tampilan lumayan dan juga nyaman di pakai");
 cout <<endl;
+
+cout << "Sandal Adidas"<<endl;
+cout << (adidas.merek)<<endl;
+adidas.perbedaan("tampilan trendy dan keren dan pasti nyaman di pakai");
+}
