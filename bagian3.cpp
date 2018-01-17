@@ -39,3 +39,8 @@ cout << "Sandal Adidas"<<endl;
 cout << (adidas.merek)<<endl;
 adidas.perbedaan("tampilan trendy dan keren dan pasti nyaman di pakai");
 }
+
+void sendal::perbedaan(string jenis){
+	cout << "perbedaannya "<<jenis<<" !!"<<endl;
+	cout << "harganya Rp "<<harga<<endl;
+}
