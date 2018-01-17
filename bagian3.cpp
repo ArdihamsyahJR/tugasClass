@@ -19,3 +19,8 @@ int main(){
 	nipon.harga=5000;
 	nike.harga=25000;
 	adidas.harga=100000;
+	
+cout <<"||||||||||||||||||||||||||||||||||||"<<endl;
+cout <<"|           MOnggo Mampir          | "<<endl;
+cout <<"||||||||||||||||||||||||||||||||||||"<<endl;
+cout <<endl;
